@@ -1,0 +1,11 @@
+package HadesCELLOAPI;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String yy = "" + (7*256 + 224);
+		System.out.println("" + 7 + "" + 10 + "" + yy.substring(2));
+	}
+
+}

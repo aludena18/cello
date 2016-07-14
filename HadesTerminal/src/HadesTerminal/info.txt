@@ -1,0 +1,66 @@
+VERSION				:	6.0.0
+FECHA LANZAMIENTO	:	2009-09-15
+
+REQUERIMIENTO DE CAMBIO
+-----------------------
+FECHA: SEPTIEMBRE 2009
+
+- Incorporar Servidor para unidades con protocolo XVM - Virloc
+  
+- Gestionar pedido de imagenes via aire en protocolo XVM
+
+CAMBIOS REALIZADOS
+------------------
+
+- Se crearon las clases ServerXVM, ProcessorXVMACK, ProcessorXVMCMD,
+  ProcessorXVMFotoToDB, ProcessorXVMToDB, XVMPDU
+  
+- Se agrego control al grabar datos en la base de datos
+  para que si falla vuelva a intentarlo.
+
+OBSERVACIONES
+-------------
+
+
+PRUEBAS REALIZADAS
+------------------
+
+REALIZADO POR	: JAVIER NEIRA
+SOLICITADO POR	: JAVIER NEIRA
+APROBADO POR	: JAVIER NEIRA
+
+
+********************************************************************
+
+VERSION				:	5.0.0
+FECHA LANZAMIENTO	:	2009-06-01
+
+REQUERIMIENTO DE CAMBIO
+-----------------------
+FECHA: MAYO 2009
+
+- Recibir datos de respuesta a los comandos enviados a 
+  través de ProcessorUDPAPI.
+  
+- Controlar las fallas al momento de grabar en bases de
+  datos.
+
+CAMBIOS REALIZADOS
+------------------
+
+- Se dividió a la clase ProcessorUDPAPICMD para recibir
+  datos en la clase ServerUDPAPICMD.
+  
+- Se agrego control al grabar datos en la base de datos
+  para que si falla vuelva a intentarlo.
+
+OBSERVACIONES
+-------------
+
+
+PRUEBAS REALIZADAS
+------------------
+
+REALIZADO POR	: JAVIER NEIRA
+SOLICITADO POR	: JAVIER NEIRA
+APROBADO POR	: JAVIER NEIRA

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;PDULibrary.CLMPPDU&apos; to &apos;CELLOPDU&apos;&#x0D;&#x0A;- Original project: &apos;PDULibrary&apos;&#x0D;&#x0A;- Original element: &apos;PDULibrary.CLMPPDU&apos;&#x0D;&#x0A;- Renamed element: &apos;PDULibrary.CELLOPDU&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CLMPPDU&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;PDULibrary{CLMPPDU.java[CLMPPDU" matchStrategy="1" name="CELLOPDU" qualified="false" references="true" similarDeclarations="false" stamp="1462805660135" textual="false" version="1.0"/>
+</session>

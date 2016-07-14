@@ -1,0 +1,3 @@
+Manifest-Version: 1.0.0
+Main-Class: HadesCELLOAPI.Hades
+Class-Path: DataGateway.jar sqljdbc4.jar mail.jar HadesTerminal.jar PDULibrary.jar ProcessorLibrary.jar

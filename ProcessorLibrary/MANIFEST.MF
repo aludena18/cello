@@ -1,0 +1,2 @@
+Manifest-Version: 12.0.1
+Class-Path: sqljdbc4.jar mail.jar PDULibrary.jar commons-net-3.0.1.jar
